@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "所写即所得"
+title                    : "闪聊Android"
 title_separator          : "-"
-name                     : "venciallee"
-description              : "格物致知诚意正心修身齐家."
+name                     : "闪聊"
+description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,15 +101,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "venciallee"
+  name             : "闪聊"
   avatar           : "/assets/images/avatar.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "格物致知诚意正心修身齐家."
+  bio              : ""
   location         : "China"
-  email            : "venciallee@gmail.com"
+  email            : "shanliao.vip@gmail.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://vencial.com"
+      url: "http://shanliao.vip"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -118,7 +118,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/venciallee"
+      url: "http://shanliao.vip"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
